@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Aditya Chauhan</h1>
 <h3 align="center">As a newcomer to the field, I am a dedicated and aspiring Big Data enthusiast eager to learn and contribute. My foundation in Java and Python, coupled with a passion for data visualization and machine learning, fuels my drive to excel in the world of Big Data technology.</h3>
 
-<img align="right" alt="coding" width="216" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSufSsiwxyOnBh4HQcIKR5YbECY8Z7WiCx3xpWjoQu6ZQ&s.gif">
+<img align="right" alt="coding" width="216" src="![image](https://github.com/AdityaTheChauhan/AdityaTheChauhan/assets/61203150/88de6507-9763-416e-a05c-178db6c8fc5d)
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AdityaTheChauhan&label=Profile%20views&color=0e75b6&style=flat" alt="Aditya-Chauhan" /> </p>
 
