@@ -11,7 +11,8 @@
 - ⚡ Fun fact **I'm still hustling**
 
 <h3 align="left">Languages and Tools:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AdityaTheChauhan&show_icons=true&locale=en&layout=compact" alt="Aditya-Chauhan" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaTheChauhan" alt="Aditya-Chauhan" /></p>
+<p><img align="left" width="324" hspace="20" src="https://github-readme-stats.vercel.app/api/top-langs?username=AdityaTheChauhan&show_icons=true&locale=en&layout=compact" alt="Aditya-Chauhan" /></p>
+
+<p><img align="right" width="324" hspace="20" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaTheChauhan" alt="Aditya-Chauhan" /></p>
 
