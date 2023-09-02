@@ -4,7 +4,7 @@
 
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSufSsiwxyOnBh4HQcIKR5YbECY8Z7WiCx3xpWjoQu6ZQ&s.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AdityaTheChauhan&label=Profile%20views&color=0e75b6&style=flat" alt="Aditya-Chauhan" /> </p>
 
 - 🌱 I’m currently learning all the **Big Data Technologies** related stuff.
 - 💬 Passionate about solving challenging **Aptitude** questions please feel free to ask me related questions.
