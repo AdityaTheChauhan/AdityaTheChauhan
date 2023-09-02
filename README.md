@@ -1,4 +1,4 @@
-![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
+![logo](https://github.com/AdityaTheChauhan/AdityaTheChauhan/blob/main/Top10ML-1200x695.png)
 <h1 align="center">Hi 👋, I'm Aditya Chauhan</h1>
 <h3 align="center">As a newcomer to the field, I am a dedicated and aspiring Big Data enthusiast eager to learn and contribute. My foundation in Java and Python, coupled with a passion for data visualization and machine learning, fuels my drive to excel in the world of Big Data technology.</h3>
 
