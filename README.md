@@ -72,17 +72,17 @@
 ### 🤖 Advanced RAG-based Chatbot (Website Scraper & Q&A)
 * **Technologies:** Python, Gen-AI, RAG (Groq API, Sentence Transformers, FAISS), FastAPI, Aiohttp
 * **Highlights:**
-    * Engineered a low-latency RAG chatbot using the Groq API for fast, contextual responses.
-    * Implemented asynchronous web scraping (`aiohttp`, `BeautifulSoup`) to rapidly build the private knowledge base.
-    * Utilized Sentence Transformers for generating vector embeddings and Cosine Similarity for efficient, context-aware retrieval.
-    * Deployed the system as a high-performance FastAPI service.
+* Engineered a low-latency RAG chatbot using the Groq API for fast, contextual responses.
+* Implemented asynchronous web scraping (`aiohttp`, `BeautifulSoup`) to rapidly build the private knowledge base.
+* Utilized Sentence Transformers for generating vector embeddings and Cosine Similarity for efficient, context-aware retrieval.
+* Deployed the system as a high-performance FastAPI service.
 
 ### 📈 Bitcoin Price Prediction (ML Classification)
 * **Technologies:** Python, Pandas, Scikit-learn, XGBClassifier, Time Series Analysis
 * **Highlights:**
-    * Developed a machine learning model to predict the directional price movement (up/down) of Bitcoin.
-    * Employed various classifiers, including XGBoost Classifier, Logistic Regression, and SVC.
-    * Focused on extensive data cleaning, feature engineering, and robust model evaluation.
+* Developed a machine learning model to predict the directional price movement (up/down) of Bitcoin.
+* Employed various classifiers, including XGBoost Classifier, Logistic Regression, and SVC.
+* Focused on extensive data cleaning, feature engineering, and robust model evaluation.
 
 ---
 
@@ -93,6 +93,15 @@
 <br/>
 <small>Animation updates automatically every 12 hours via GitHub Actions.</small>
 </div>
+
+---
+
+## 💼 Technical Experience Snippet
+* **RAG/Gen-AI Developer Intern | ValueDX Technologies**
+* Designed and built a RAG-based Chatbot integrating LLMs with private knowledge bases.
+* Applied Robotic Process Automation (RPA) to automate data handling tasks.
+* Developed project APIs using FastAPI for high throughput.
+* Focused on DSA, Python, and SQL in real-world Generative AI projects.
 
 ---
 
